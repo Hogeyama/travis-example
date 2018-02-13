@@ -1,0 +1,5 @@
+language: haskell
+sudo: false
+
+ghc:
+  - "8.2.2"
